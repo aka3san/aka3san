@@ -2,9 +2,8 @@
 ## 【経験・スキル】
 ### C: 2年, C++: 1年, C#: 2年, Swift: 1年, Python: 4年, Jenkins: 1年未満, 
 ### JavaScript, React勉強中
-
-## 【ポートフォリオ】
-### https://tzmtdustnskazs.wixsite.com/aka3san
+## ポートフォリオ → https://tzmtdustnskazs.wixsite.com/aka3san
+## 使用言語
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aka3san&layout=compact)]
 (https://github.com/anuraghazra/github-readme-stats)
 
